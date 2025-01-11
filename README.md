@@ -2,8 +2,8 @@
 
 ## Analytics Portfolio
 
-### Project 1: [Data Analysis and Prediction of Air Pollution](https://ronmarke.github.io/final_bootcamp_project/)
-**Description**: This project analyzes air pollution data to identify factors impacting air quality and predict pollutant trends using tools like Python's pandas, numpy and matplotlib libraries and Power BI Service.  
+### Project 1: [Data Analysis and Prediction of Air Pollution](https://ronmarke.github.io/final_bootcamp_project/Data Analysis and Prediction of Air Pollution.ipynb)
+**Description**: Conducted a comprehensive analysis of air pollution data to uncover key factors affecting air quality. Built predictive models to forecast pollutant trends, empowering stakeholders to take proactive measures. Leveraged Python libraries for data preprocessing, visualization, and trend analysis, with interactive dashboards created in Power BI Service for insights sharing.
 **Tools**: Python, Power BI Service  
 **Database**: CSV files from Kaggle
 
